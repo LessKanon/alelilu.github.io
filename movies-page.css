@@ -386,6 +386,24 @@ body{
     margin-top: 0.25rem;
 }
 
+.movies-p{
+    width: 10rem;
+    height: 2rem;
+    font-size: 0.85rem;
+    font-weight: bold;
+    color: var(--neutral-00);
+    border-radius: 0.5rem;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: var(--brand-b60);
+    margin-left: 22rem;
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--brand-b80);
+}
+
 .movies-menu{
     height: 2rem;
     display: flex;
